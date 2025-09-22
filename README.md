@@ -1,2 +1,2 @@
 # leirasok-kovetelmenyek
-Leírások és követelmények
+Leírások és követelmények 
